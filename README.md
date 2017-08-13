@@ -7,4 +7,4 @@ In this project I was given a web-based application that reads RSS feeds where I
 In your computer terminal, type
 `$> git clone https://github.com/leticiaribeirom/nd-feedreader-tests.git`
 or download the ZIP file.
-Then, open `index.html` in your favorite browser to see the application. In the bottom of the page you can see the Jasmine Suite with all the tests that I wrote in this projects.
+Then, open `index.html` in your favorite browser to see the application. On the bottom of the page you can see the Jasmine Suite with all the tests that I wrote in this projects.
